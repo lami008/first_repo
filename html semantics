@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<section>
+    <h1>WWF</h1>
+<p>The World Wide Fund for Nature  (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+</section>
+
+<section>
+    <h1>WWF's Panda symbol</h1>
+    <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London zoo in the same year of the establishment of WWf</p>
+</section>
+
+<article>
+    <h2>Mozilla Firefox</h2>
+    <p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser siince January, 2018.</p>
+</article>
+
+<article>
+    <h2>Microsoft Edge</h2>
+    <p>Microsoft edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer.</p>
+</article>
+
+<nav>
+    <a href="/html/">HTML</a>
+    <a href="/css/">CSS</a>
+    <a href="/js/">Javascript</a>
+    <a href="/jquery/">jQuery</a>
+</nav>
+
+<p>My family and i visited The Epcot center this summer. The weather was nice, and Epcot was amazing! I had a great summer together with my family</p>
+
+<aside>
+    <h4>Epcot Center</h4>
+    <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</aside>
+
+<figure>
+    <img src="https://media.gettyimages.com/id/174655938/photo/rose-background.jpg?s=612x612&w=gi&k=20&c=ifwU2KfG9rneVePvK0I3RKGbkhH7KfLvgHMM_TlZVaQ="
+    <figcaption> Content </figcaption>
+</figure>
+
+<p>I will display &euro;</p>
+<p>I will display &#8364;</p>
+<p>I will display &#x20AC;</p>
+
+<p> style="font-size:100px">&#12850</p>
+<p>I will display &#12850;</p>
+<p>I will display &#x1F61C;</p>
+
+<p> style="font-size:100px>&#9995;</p>
+<p>I will display &#9995;</p>
+<p>I will display &#x270B;</p>
+
+<p> style="font-size:100px">&#128110;</p>
+<p>I will display &#128110;</p>
+<p>I will display &#x1F6E;</p>
+
+<p style="font-size:100px">&#128187;</p>
+<p>I will display &#128187;</p>
+<p>I will display &#x1FBB</p>
+
+<p> style="font-size:100px">&#9962;</p>
+<p>I will display &#9962;</p>
+<p>I will display &#x26EA;</p>
+
+<P> style="font-size:100px">&#128640;</P>
+<p>I will display &#128640;</p>
+<p>I will display &#x1F680;;</p>
+
+<p> style="font-size:100px">&#128052;</p>
+<p>I will display &#128052;</p>
+<p>I will display &#x1F434;</p>
+
+<p> style="font-size:100px">&#127757;</p>
+<p>I will display &#127757;</p>
+<P>I will display &#x1F30D;</P>
+
+<p>&#9757; No skin tone</p>
+<p>&#9757;&#127999; dark</p>
+<p>&#9757;&#127998; Medium Dark</p>
+<p>&#9757;&#127997; Medium</p>
+<p>&#9757;&#127996; Medium Light</p>
+<p>&#9757;&#127995; Light</p>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+
+
+
+
+
+
+
+
+
+
+
